@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @elciosato
-- 👀 I’m interested in Full Stack Development
+- 👀 I’m interested in Full Stack Development [Javascript, Typescript, NodeJS, React]
 - 🌱 I’m currently learning React
 - 📫 How to reach me elciosato@gmail.com
 
