@@ -1,13 +1,10 @@
-![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif) Hi my name is Elcio
-===========================================================================================================================================
-
 NodeJS Developer
 ----------------
 
-* 🌍  I'm based in The Hague - Netherlands
-* ✉️  You can contact me at [elciosato@gmail.com](mailto:elciosato@gmail.com)
+* 👋 Hi, I’m @elciosato
+* 👀 I’m interested in Backend Development [Javascript, Typescript, NodeJS]
 * 🧠  I'm learning NestJS
-* 🤝  I'm open to collaborating on Backend Development \[Javascript, Typescript, NodeJS\]
+* ✉️  You can contact me at [elciosato@gmail.com](mailto:elciosato@gmail.com)
 
 ### Skills
 
