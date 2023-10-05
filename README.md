@@ -2,7 +2,7 @@ NodeJS Developer
 ----------------
 
 * 👋 Hi, I’m @elciosato
-* 👀 I’m interested in Backend Development [Javascript, Typescript, NodeJS]
+* 👀 I’m interested in Backend Development [Javascript, Typescript, NodeJS, GraphQL]
 * 🧠  I'm learning NestJS
 * ✉️  You can contact me at [elciosato@gmail.com](mailto:elciosato@gmail.com)
 
